@@ -1,10 +1,11 @@
 # Grandma Margaret Engel's Recipes
 
-In which I go through my grandmother's recipe book looking for handwritten, family recipes.  Her mother and grandparents immigrated to the United States in 1911 from England and some of her recipes reflect this origin.  For example, kedgeree, lemon curd, and some of the frostings.  More specifically:
+In which I go through my grandmother's recipe book looking for handwritten, family recipes.  Her mother and grandparents immigrated to the United States in 1911 from England and some of her recipes reflect this origin.  For example, [kedgeree](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Meats/Kedgeree.md), [lemon curd](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Pies%20%26%20Pastries/Lemon%20Curd.md), [suet dumplings](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Biscuits%20%26%20Bread/Suet%20Dumplings.md), [shortbread](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Biscuits%20%26%20Bread/Scotch%20Shortbread.md), [toffee](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Miscellaneous/Vinegar%20Toffee.md) and some of the frostings.
 
-- Danish Quick Cake
-- Granny's Christmas Cake
-- Mom's Chocolate Cookies
+- [Danish Quick Cake](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Cakes%20%26%20Cookies/Danish%20Quick%20Cake.md)
+- [Granny's Christmas Cake](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Cakes%20%26%20Cookies/Granny's%20Christmas%20Cake.md)
+- [Mom's Chocolate Cookies](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Cakes%20%26%20Cookies/Mom's%20Chocolate%20Cookies.md)
+- [Ice Cream](https://github.com/jduss4/grandma_margaret_recipes/blob/master/Miscellaneous/Ice%20Cream.md)
 
 Unfortunately, my mom told me that her great-grandma refused to write down any of her recipes, so the majority of them are lost.
 
