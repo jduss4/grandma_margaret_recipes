@@ -6,8 +6,9 @@ In which I go through my grandmother's recipe book looking for handwritten, fami
 - Granny's Christmas Cake
 - Mom's Chocolate Cookies
 
+Unfortunately, my mom told me that her great-grandma refused to write down any of her recipes, so the majority of them are lost.
 
-Many others are very 1950s and 60s, to my eyes.
+Many of the recipes my grandma collected seem very 1950s and 60s, to my eyes.
 
 ## Brownies
 
