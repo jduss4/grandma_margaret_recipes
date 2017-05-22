@@ -1,6 +1,6 @@
 # 7 Layer Salad
 
-Origin: Unknown, grandma's handwriting
+Origin: My mom thinks this is from my other grandma, Patsy (Riley) Dussault. Card in Grandma Margaret's handwriting
 
 ## 1st Layer
 

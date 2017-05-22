@@ -1,6 +1,6 @@
 # Glorified Choc Pie
 
-Origins: Unknown, grandma's handwriting
+Origins: My mom believes this is "Grandma Engel's" recipe (I assume that is her grandma, my great-grandma) and it was my grandpa's favorite so grandma made it quite a lot. Grandma's handwriting
 
 ## Ingredients
 

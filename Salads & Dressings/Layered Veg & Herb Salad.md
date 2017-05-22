@@ -1,6 +1,6 @@
 # Layered Veg & Herb Salad
 
-Origin: Fay, grandma's handwriting
+Origin: Fay, grandma's aunt, sister of grandma's father, Ray Deyarmond. Grandma's handwriting
 
 ## Ingredients
 

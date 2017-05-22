@@ -1,6 +1,6 @@
 # Mary's Spare Ribs & Sour-Kraut [sic]
 
-Origin: Mary? Grandma's handwriting
+Origin: Mary, who my mom believes was probably Mary Seeley, a good friend of my mom's grandma Lily from "the old country." Grandma's handwriting
 
 ## Ingredients and Directions
 

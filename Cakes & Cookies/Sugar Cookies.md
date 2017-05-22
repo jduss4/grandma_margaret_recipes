@@ -1,6 +1,6 @@
 # Sugar Cookies (Fay)
 
-Origin:  Fay?
+Origin:  Fay, grandma's aunt, sister of grandma's father, Ray Deyarmond.
 
 ## Ingredients and Directions
 

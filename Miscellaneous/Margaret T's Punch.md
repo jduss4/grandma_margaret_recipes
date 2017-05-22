@@ -1,6 +1,6 @@
 # Punch
 
-Origin: Margaret Thilemier, grandma's handwriting
+Origin: Margaret Thilemier, a friend of my grandma's from church in Santa Ana. Grandma's handwriting
 
 ## Ingredients
 

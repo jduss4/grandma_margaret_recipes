@@ -1,6 +1,6 @@
 # Sugar Cookies (Fay's)
 
-Origin: Fay, grandma's handwriting
+Origin: Fay, grandma's aunt, sister of grandma's father, Ray Deyarmond. Grandma's handwriting.
 
 ## Ingredients
 

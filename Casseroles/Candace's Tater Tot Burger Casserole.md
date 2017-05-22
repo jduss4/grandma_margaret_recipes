@@ -1,6 +1,6 @@
 # Tater Tots & Burger
 
-Origin: Candace, grandma's daughter and my mom, though I'm confident she didn't make this up
+Origin: Candace, grandma's daughter and my mom, though I'm confident she didn't make this up. Mom would also like to go on the record: "I have NEVER made tater tot casserole, let alone give my mom a recipe for it. Yuck!"
 
 ## Ingredients
 

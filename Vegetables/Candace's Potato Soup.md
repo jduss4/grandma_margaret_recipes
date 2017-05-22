@@ -1,6 +1,6 @@
 # Potato Soup
 
-Origin: Candace, grandma's daughter and my mom (my mom definitely didn't invent this)
+Origin: Candace, grandma's daughter and my mom. Candace got it from a caterer at 1st Plymouth church who now lives in Valentine, NE.
 
 ## Ingredients
 
