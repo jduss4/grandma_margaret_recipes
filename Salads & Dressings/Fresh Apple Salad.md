@@ -1,6 +1,7 @@
 # Fresh Apple Salad
 
 Origin: National Grange Bicentennial Cookbook, typewritten
+In Candace's collection of grandma's cards, there is a recipe card which attributes this recipe to "Pat Dussault," my other grandma.
 
 ## Ingredients
 

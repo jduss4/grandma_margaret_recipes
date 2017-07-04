@@ -1,6 +1,6 @@
 # Scotch Shortbread
 
-Origin: Unknown, Grandma's handwriting
+Origin: Unknown, Grandma's handwriting, mom thinks Grandma Lily
 
 ## Ingredients
 
