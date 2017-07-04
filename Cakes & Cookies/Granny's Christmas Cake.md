@@ -12,7 +12,7 @@ There's a possibily that it may be her grandmother from the Deyarmond side of th
 - 12 eggs (14 if small)
 - 2 packages currants
 - 1 packages seedless raisins
-- 3/4 [ lb ? ] mxed peel (orange, lemon, citron)
+- 3/4 [ lb ? ] mixed peel (orange, lemon, citron)
 - 2 tsp baking powder
 - 1 cup chopped walnuts
 - 1 cup chopped blanched almonds
